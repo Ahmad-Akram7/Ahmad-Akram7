@@ -1,9 +1,9 @@
 name: Update README Activity
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *' # run every 30 minutes
-  workflow_dispatch:
 
 jobs:
   update-readme:
