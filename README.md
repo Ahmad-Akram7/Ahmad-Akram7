@@ -31,6 +31,7 @@ I am currently deepening my expertise in infrastructure automation and exploring
 ---
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Initial Stable Release - Geotechnical Classification Suite](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification/releases/tag/v1.0.0) in [Ahmad-Akram7/Simulink-Soil-Classification](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect
