@@ -1,23 +1,25 @@
 name: Update README Activity
-permissions:
-  contents: write
 
 on:
   schedule:
-    # Runs every 2 hours
-    - cron: '0 */2 * * *'
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update Profile README with Recent Activity
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@v0.3.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
-          COMMIT_MSG: 'chore: update README with recent activity'
+          COMMIT_MSG: "chore: update README with recent activity"
           MAX_LINES: 10
