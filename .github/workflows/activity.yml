@@ -1,11 +1,3 @@
-To fix your GitHub Actions workflow, please follow these steps:
-
-1.  **Navigate to the file** on GitHub: [https://github.com/Ahmad-Akram7/Ahmad-Akram7/blob/main/.github/workflows/activity.yml](https://github.com/Ahmad-Akram7/Ahmad-Akram7/blob/main/.github/workflows/activity.yml)
-2.  **Click the "Edit this file"** (pencil) icon in the top right.
-3.  **Replace the existing content** with the code below.
-4.  **Click "Commit changes"** at the bottom of the page.
-
-Here is the corrected code to paste:
 name: Update README Activity
 
 on:
