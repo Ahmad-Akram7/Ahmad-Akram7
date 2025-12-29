@@ -22,4 +22,3 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           COMMIT_MSG: "chore: update README with recent activity"
-          MAX_LINES: 10
