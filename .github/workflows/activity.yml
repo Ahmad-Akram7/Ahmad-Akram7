@@ -1,4 +1,6 @@
 name: Update README Activity
+permissions:
+  contents: write
 
 on:
   schedule:
