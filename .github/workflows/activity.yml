@@ -17,3 +17,5 @@ jobs:
         with:
           COMMIT_MSG: "Update README Activity"
           MAX_LINES: 10
+          COMMIT_NAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
