@@ -31,7 +31,7 @@ I am currently deepening my expertise in infrastructure automation and exploring
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1345](https://github.com/supabase/supabase-py/pull/1345) in [supabase/supabase-py](https://github.com/supabase/supabase-py)
+1. 🔒 Closed issue [#1](https://github.com/alejolagosm/machine_flow/issues/1) in [alejolagosm/machine_flow](https://github.com/alejolagosm/machine_flow)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect
