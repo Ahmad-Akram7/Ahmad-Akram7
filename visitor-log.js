@@ -1,17 +1,13 @@
 /**
  * visitor-log.js
- * Add <script src="visitor-log.js"></script> in your portfolio's <head>
- * It silently pings your InfinityFree logger on every page load.
+ * Uses an invisible image ping instead of fetch — bypasses CORS entirely.
  */
 
 (function () {
   const LOG_URL = "https://cv-resume.infinityfreeapp.com/log.php";
-
   const page = window.location.pathname || "/";
 
-  fetch(LOG_URL + "?page=" + encodeURIComponent(page), {
-    method: "GET",
-    mode: "cors",
-    cache: "no-store",
-  }).catch(function () {});
+  var img = new Image();
+  img.src = LOG_URL + "?page=" + encodeURIComponent(page);
+  // No CORS, no fetch, no errors — browser just silently fires the request
 })();
