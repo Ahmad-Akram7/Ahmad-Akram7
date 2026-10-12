@@ -31,7 +31,7 @@ I am currently deepening my expertise in infrastructure automation and exploring
 ---
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/alejolagosm/machine_flow/issues/1) in [alejolagosm/machine_flow](https://github.com/alejolagosm/machine_flow)
+1. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor/pull/1) in [Ahmad-Akram7/climate-risk-portfolio-assessor](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect
