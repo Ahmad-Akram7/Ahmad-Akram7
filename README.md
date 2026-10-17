@@ -31,7 +31,7 @@ I am currently deepening my expertise in infrastructure automation and exploring
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor/pull/1) in [Ahmad-Akram7/climate-risk-portfolio-assessor](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor)
+1. 🎉 Merged PR [#2](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor/pull/2) in [Ahmad-Akram7/climate-risk-portfolio-assessor](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect
