@@ -31,7 +31,7 @@ I am currently deepening my expertise in infrastructure automation and exploring
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/7) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
+1. 🎉 Merged PR [#16](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/16) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
 <!--END_SECTION:activity-->
 
 ### ✉️ Connect
