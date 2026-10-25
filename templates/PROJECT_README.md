@@ -1,79 +1,51 @@
-# Project Title
+# Project name
 
-A concise, one-sentence description of the project and its primary goal.
+One or two sentences explaining what the project does, who it is for, and its current status.
 
----
+## Problem and scope
 
-## 1. Problem Statement
+What problem are you trying to solve? State the intended users and the boundaries of the project.
 
-What specific problem does this project solve? Describe the pain point, inefficiency, or challenge that motivated its creation. Provide enough detail for someone outside the domain to understand the core issue.
+## Method
 
-## 2. Engineering Context
+Explain the workflow and the main technical choices. Include relevant standards, algorithms, data sources, units, and assumptions. Link to primary sources when appropriate.
 
-Where does this problem fit within the broader civil engineering or software landscape? Explain any relevant industry standards, common practices, or theoretical principles that are important for understanding the project's significance.
+## Implementation
 
-## 3. Technical Approach
+List the important components and explain how they fit together. Include a table if it makes the setup easier to understand.
 
-Describe the methodology and the key technical decisions made during the project. Explain *why* certain tools, algorithms, or architectures were chosen.
+| Component | Role |
+| --- | --- |
+| Language or framework | What it is used for |
+| Data source | What it supplies |
+| Analysis or model | What it calculates |
+| Output | What the user receives |
 
-- **System Design:** (If applicable) Briefly explain the overall architecture.
-- **Core Logic:** Describe the main algorithms or processes.
-- **Data Management:** How is data acquired, stored, processed, and validated?
+Replace the examples above with the tools actually used by this project.
 
-## 4. Tools & Stack
+## Results and validation
 
-List the primary languages, frameworks, libraries, and other technologies used.
+Show representative outputs and explain how they were checked. Include test commands and report their actual outcomes. Separate measured or verified results from estimates and experimental behavior.
 
-| Type       | Technology      |
-|------------|-----------------|
-| Language   | Python 3.11     |
-| Framework  | FastAPI         |
-| Database   | PostgreSQL      |
-| Analysis   | Pandas, NumPy   |
-| Deployment | Docker          |
-| Other      |                 |
+## Limitations
 
-## 5. Results / Output
+Document known gaps, assumptions, data coverage issues, and cases the tool does not handle. Explain what would be needed to improve confidence.
 
-Showcase the final result. This could be:
-- Screenshots or GIFs of the application in use.
-- Code snippets demonstrating the output.
-- Graphs, plots, or tables summarizing analytical results.
-- A link to a live deployment or a video walkthrough.
+## Run locally
 
-## 6. How to Run
+List prerequisites, then provide commands that match the repository's real structure.
 
-Provide clear, step-by-step instructions for setting up and running the project locally.
+```bash
+git clone https://github.com/OWNER/REPOSITORY.git
+cd REPOSITORY
+```
 
-1.  **Prerequisites:**
-    - List any software or tools that must be installed beforehand (e.g., Python 3.11, Docker, Git).
+Add installation and execution steps only after verifying them for this project.
 
-2.  **Cloning the Repository:**
-    ```bash
-    git clone https://github.com/YourUsername/repository-name.git
-    cd repository-name
-    ```
+## Roadmap
 
-3.  **Installation:**
-    ```bash
-    # Create and activate a virtual environment
-    python -m venv .venv
-    source .venv/bin/activate
-    
-    # Install dependencies
-    pip install -r requirements.txt
-    ```
+List a few concrete next steps, if they are known. Avoid promising features that have not been planned.
 
-4.  **Execution:**
-    ```bash
-    # Run the main application
-    python main.py
-    ```
+## License and citations
 
-## 7. Lessons Learned
-
-Reflect on the project.
-- What were the biggest challenges?
-- What new skills or concepts did you learn?
-- If you were to start over, what would you do differently?
-- What are potential future improvements?
+State the repository's license and cite external data, standards, libraries, or research that the project relies on.
