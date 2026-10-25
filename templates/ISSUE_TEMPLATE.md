@@ -1,32 +1,36 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: 'bug: '
+about: Report a reproducible problem so it can be investigated
+title: "bug: "
 labels: bug, needs-triage
-assignees: ''
-
+assignees: ""
 ---
 
-**1. Describe the bug**
-A clear and concise description of what the bug is.
+## What happened?
 
-**2. To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Describe the behavior you observed and what you were trying to do.
 
-**3. Expected behavior**
-A clear and concise description of what you expected to happen.
+## Steps to reproduce
 
-**4. Screenshots**
-If applicable, add screenshots to help explain your problem.
+1. Open the relevant page or run the relevant command.
+2. Provide the inputs or actions needed to reproduce the issue.
+3. Describe what happened.
 
-**5. System Environment (please complete the following information):**
- - **OS:** [e.g. Arch Linux, Windows 11]
- - **Tool Version** [e.g. 22.04]
- - **Python Version** [e.g. 3.10]
+## Expected behavior
 
-**6. Additional context**
-Add any other context about the problem here.
+What did you expect to happen instead?
+
+## Evidence
+
+Add screenshots, logs, or a minimal example if they help explain the problem. Remove passwords, tokens, personal data, and other sensitive information.
+
+## Environment
+
+- OS:
+- Project/tool version or commit:
+- Runtime or dependency versions:
+- Relevant configuration:
+
+## Additional context
+
+Anything else that could help someone reproduce or diagnose the issue.

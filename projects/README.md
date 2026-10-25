@@ -1,45 +1,40 @@
-# Project Showcase
+# Project notes
 
-This directory contains a curated selection of my projects. Each project is chosen to demonstrate a specific skill, a unique problem-solving approach, or a successful integration of my dual interests in civil engineering and software development.
+This folder contains guidance for documenting projects in a way that is useful to someone who did not build them.
 
-## Philosophy
+## What a useful project page includes
 
-My project philosophy is guided by three core principles:
+- The problem and who it affects.
+- The scope of the work, including what is out of scope.
+- Inputs, data sources, standards, and assumptions.
+- The method and the reason for important technical choices.
+- Results with units, context, and a way to reproduce them.
+- Tests or checks performed, plus known limitations.
+- Setup instructions and a clear license.
 
-1.  **Real-World Relevance:** Each project starts with a tangible problem observed in the engineering or software domains. The goal is not just to write code, but to build a functional solution that could be used in a professional context.
-2.  **Engineering Mindset:** I apply a systematic, first-principles approach. This includes a clear definition of the problem, thorough documentation of the methodology, and rigorous testing of the results. Reproducibility is a key priority.
-3.  **Cross-Disciplinary Innovation:** I am particularly interested in projects that exist at the intersection of civil engineering and technology. This includes automating structural design calculations, developing tools for construction management, or creating GIS-based visualization applications.
+## Repository conventions
 
-## Repository & Contribution Standards
+Use names that tell readers what a project does. Keep names readable and avoid encoding every implementation detail into the repository name.
 
-To maintain clarity and professionalism across all projects, I adhere to the following standards. These are also the standards I expect from any collaborators.
+Suggested branch prefixes:
 
-#### 1. Repository Naming Convention
-Repositories are named to be self-descriptive and predictable.
-- **Format:** `domain-project_name-purpose`
-- **Example:** `civil-steel_connection_designer-cli`
+- `feature/` for a new capability.
+- `fix/` for a bug fix.
+- `docs/` for documentation changes.
+- `refactor/` for internal improvements that should not change behavior.
+- `test/` for test additions or corrections.
 
-#### 2. Branch Naming Convention
-Branches are named based on their intent to keep the development history clean.
-- `feature/<description>`: For new features (e.g., `feature/add-shear-calculation`).
-- `fix/<description>`: For bug fixes (e.g., `fix/resolve-unit-conversion-error`).
-- `docs/<description>`: For documentation changes (e.g., `docs/update-readme-instructions`).
-- `refactor/<description>`: For code improvements that don't change behavior (e.g., `refactor/optimize-database-query`).
+Use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) when practical. A useful message describes the change, for example `docs(readme): explain input data requirements`.
 
-#### 3. Commit Message Convention
-I follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. This creates an explicit and easily navigable commit history.
-- **Format:** `<type>(<scope>): <subject>`
-  - `feat`: A new feature.
-  - `fix`: A bug fix.
-  - `docs`: Documentation only changes.
-  - `style`: Changes that do not affect the meaning of the code (white-space, formatting, etc).
-  - `refactor`: A code change that neither fixes a bug nor adds a feature.
-  - `test`: Adding missing tests or correcting existing tests.
-  - `chore`: Changes to the build process or auxiliary tools.
+## Review checklist
 
-#### 4. GitHub Pin Strategy
-The repositories pinned to my profile are selected to provide a comprehensive and immediate overview of my capabilities. The selection typically includes:
-- A complex project that demonstrates my core technical skills.
-- A project that showcases the intersection of engineering and software.
-- A repository that highlights my commitment to documentation and professional practices (like this one).
-- A project where I collaborated with others, if applicable.
+Before publishing a project, check that:
+
+1. Setup instructions work on a clean environment.
+2. Paths, links, and commands are current.
+3. Results can be reproduced from documented inputs.
+4. Limitations and unvalidated features are stated plainly.
+5. Screenshots and example data do not expose private information.
+6. The license matches how the project may be reused.
+
+Profile pins should show a representative mix of current work, engineering relevance, and projects with clear documentation. Keep them updated as the work changes.
