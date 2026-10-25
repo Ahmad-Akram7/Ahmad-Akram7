@@ -1,40 +1,41 @@
-# Ahmad Akram | Civil Engineering & Software Development
+# Ahmad Akram
 
-A multidisciplinary engineering student applying software development and automation to solve complex civil engineering challenges. Passionate about building robust, efficient systems and leveraging technology to innovate within the AEC (Architecture, Engineering, and Construction) industry. My goal is to contribute to projects that bridge the gap between traditional engineering and modern software practices.
+Civil engineering student at the University of Engineering and Technology, Taxila, exploring the overlap between infrastructure, geospatial analysis, and software.
 
----
+I build and document small tools that help me investigate engineering problems, test workflows, and make technical work easier to reproduce. My current interests include GIS, climate risk, engineering automation, and BIM-based construction planning.
 
-### ⌬ Core Focus Areas
-- **Engineering Automation & Process Improvement:** Developing scripts and tools to automate repetitive design, analysis, and data processing tasks.
-- **Infrastructure, Systems & Tooling:** Working with Linux-based systems, version control, and containerization to build reliable development and deployment environments.
-- **Data-Driven Structural & Geospatial Analysis:** Using Python and specialized libraries for structural calculations, finite element analysis (FEA), and GIS data manipulation.
+## Areas I work in
 
----
+- **Civil engineering:** design and analysis workflows, construction planning, and geotechnical concepts.
+- **GIS and spatial analysis:** QGIS, geospatial data preparation, mapping, and exploratory remote-sensing work.
+- **Software and automation:** Python, Bash, Linux, Git, and small tools that reduce repetitive work.
+- **Research:** careful documentation of methods, assumptions, limitations, and reproducibility.
 
-### ⌘ Tech Stack
+## Selected repositories
 
-| Category                  | Tools & Technologies                                         |
-| ------------------------- | ------------------------------------------------------------ |
-| **Languages**             | Python, Bash                                                 |
-| **Engineering Toolkit**   | AutoCAD, ETABS, SAP2000, QGIS, ArcGIS, Excel (VBA)            |
-| **Dev & OS Ecosystem**    | Linux (Arch, Ubuntu), Git, Docker, Neovim, VS Code           |
-| **Cybersecurity**         | Wireshark, Nmap, Metasploit (Foundational), SOC Concepts (Theoretical) |
+| Project | What it explores |
+| --- | --- |
+| [Climate Risk Portfolio Assessor](https://github.com/Ahmad-Akram7/climate-risk-portfolio-assessor) | Local-first workflows for asset-level climate risk assessment. Some loss functions remain experimental and are labelled accordingly. |
+| [Finance Tracker](https://github.com/Ahmad-Akram7/FINANCE-TRACKER) | A personal finance app with transaction, budget, savings, and shared-expense workflows. |
+| [Simulink Soil Classification](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification) | Educational models for USCS and AASHTO soil classification. |
 
----
+For other work, browse [all repositories](https://github.com/Ahmad-Akram7?tab=repositories) or visit the [portfolio website](https://ahmad-akram7.github.io/Ahmad-Akram7/).
 
-### ➟ Current Focus & Philosophy
+## How I approach projects
 
-I am currently deepening my expertise in infrastructure automation and exploring advanced applications of Python for structural analysis and GIS data processing. I am actively seeking challenging projects and open-source opportunities where I can apply my skills in a real-world setting.
+I start by defining the problem and the inputs, then make the workflow inspectable. I try to separate verified results from assumptions and experimental features, and I document what still needs testing. The aim is to leave a project that another person can understand and run, not just a screenshot of a result.
 
-> I believe in a first-principles approach to problem-solving. Whether designing a structure or writing a script, the goal is to create solutions that are not only correct but also scalable, maintainable, and well-documented. Discipline in process and clarity in execution are the cornerstones of my work.
+## Tools
 
----
+**Engineering:** AutoCAD, Revit/BIM, Primavera P6, PlanSwift, ETABS  
+**GIS and analysis:** QGIS, spatial data processing, remote sensing workflows  
+**Development:** Python, Bash, HTML/CSS, Git/GitHub, Linux
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/18) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
-<!--END_SECTION:activity-->
+This list reflects tools I have worked with or am learning; it is not a claim of equal proficiency across every tool.
 
-### ✉️ Connect
+## Connect
 
-- **GitHub:** You're here. Feel free to explore my repositories and open an issue or pull request.
-- **Seeking:** Internships, research assistant roles, and collaborative open-source projects in the engineering software, automation, and infrastructure domains.
+- [GitHub](https://github.com/Ahmad-Akram7)
+- [Repositories](https://github.com/Ahmad-Akram7?tab=repositories)
+
+I’m open to relevant research, internship, and open-source collaborations in engineering, GIS, and software.
