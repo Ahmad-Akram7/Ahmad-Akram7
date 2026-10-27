@@ -4,6 +4,11 @@ Civil engineering student at the University of Engineering and Technology, Taxil
 
 I build and document small tools that help me investigate engineering problems, test workflows, and make technical work easier to reproduce. My current interests include GIS, climate risk, engineering automation, and BIM-based construction planning.
 
+## Recent GitHub activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Areas I work in
 
 - **Civil engineering:** design and analysis workflows, construction planning, and geotechnical concepts.
