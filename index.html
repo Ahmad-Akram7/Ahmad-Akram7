@@ -95,8 +95,11 @@ h1 em{color:var(--green);font-style:italic}
 .contact-panel .label:before{background:#e4b39f}
 .contact-panel h2{font:400 clamp(40px,5vw,62px)/1 var(--serif);letter-spacing:-.04em;margin:18px 0 14px;max-width:650px}
 .contact-panel p:not(.label){color:#d4ded4;max-width:570px;margin:0}
+.contact-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;z-index:1}
 .contact-panel .button{background:var(--paper);color:var(--ink);border-color:var(--paper);white-space:nowrap;z-index:1}
 .contact-panel .button:hover{background:#fff}
+.contact-panel .button.secondary{background:transparent;color:var(--paper);border-color:#b9c9bd}
+.contact-panel .button.secondary:hover{background:#ffffff18}
 .footer{padding:22px 0 30px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;color:var(--muted)}
 .footer a{text-decoration:none}
 .footer a:hover{color:var(--rust-dark)}
@@ -113,10 +116,9 @@ h1 em{color:var(--green);font-style:italic}
 }
 @media(max-width:560px){
  .wrap{width:calc(100% - 32px)}
- .nav{height:auto;min-height:68px;align-items:flex-start;padding:17px 0;gap:16px}
- .navlinks{gap:12px;flex-wrap:wrap;justify-content:flex-end}
+ .nav{height:auto;min-height:68px;align-items:stretch;flex-direction:column;padding:17px 0;gap:14px}
+ .navlinks{gap:12px;flex-wrap:wrap;justify-content:space-between}
  .navlinks a{font-size:11px}
- .navlinks .contact-link{display:none}
  h1{font-size:clamp(54px,15vw,76px)}
  .hero-visual{min-height:310px}
  .visual-caption{left:12px;right:12px;bottom:12px;font-size:9px}
@@ -154,7 +156,7 @@ h1 em{color:var(--green);font-style:italic}
     <p class="eyebrow mono">Civil engineering / GIS / software</p>
     <h1 id="hero-title">Engineering ideas, mapped <em>into action.</em></h1>
     <p class="intro">I’m Ahmad Akram, a civil engineering student at UET Taxila. I’m interested in practical tools for engineering, geospatial analysis, climate risk, and workflow automation.</p>
-    <div class="actions"><a class="button primary" href="#work">Explore selected work</a><a class="button text" href="https://github.com/Ahmad-Akram7">GitHub profile ↗</a></div>
+    <div class="actions"><a class="button primary" href="#work">Explore selected work</a><a class="button text" href="Resume.pdf" download>Download résumé ↓</a><a class="button text" href="https://github.com/Ahmad-Akram7">GitHub profile ↗</a></div>
   </div>
   <div class="hero-visual" role="img" aria-label="A topographic field map with a river corridor, survey grid, and engineering reference marks">
     <svg class="map-art" viewBox="0 0 720 560" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
@@ -233,7 +235,7 @@ h1 em{color:var(--green);font-style:italic}
   </div>
 </section>
 <section class="wrap contact-section" id="contact">
-  <div class="contact-panel"><div><p class="label mono">04 / Contact</p><h2>Have a useful problem to solve?</h2><p>I’m interested in research, internships, and collaborative projects related to civil engineering, GIS, and engineering software.</p></div><a class="button" href="https://github.com/Ahmad-Akram7">Connect on GitHub ↗</a></div>
+  <div class="contact-panel"><div><p class="label mono">04 / Contact</p><h2>Have a useful problem to solve?</h2><p>I’m interested in research, internships, and collaborative projects related to civil engineering, GIS, and engineering software.</p></div><div class="contact-actions"><a class="button" href="https://www.linkedin.com/in/ahmadd-akram/">Connect on LinkedIn ↗</a><a class="button secondary" href="https://github.com/Ahmad-Akram7">GitHub ↗</a></div></div>
 </section>
 </main>
 <footer class="wrap footer mono"><span>© <span id="year">2026</span> Ahmad Akram</span><span>Built with care in Pakistan</span><a href="#main">Back to top ↑</a></footer>
