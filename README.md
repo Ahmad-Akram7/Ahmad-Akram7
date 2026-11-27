@@ -7,16 +7,16 @@ I build and document small tools that help me investigate engineering problems, 
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Ahmad-Akram7/Graphix/pull/2) in [Ahmad-Akram7/Graphix](https://github.com/Ahmad-Akram7/Graphix)
-2. 💪 Opened PR [#2](https://github.com/Ahmad-Akram7/Graphix/pull/2) in [Ahmad-Akram7/Graphix](https://github.com/Ahmad-Akram7/Graphix)
-3. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/Graphix/pull/1) in [Ahmad-Akram7/Graphix](https://github.com/Ahmad-Akram7/Graphix)
-4. 💪 Opened PR [#1](https://github.com/Ahmad-Akram7/Graphix/pull/1) in [Ahmad-Akram7/Graphix](https://github.com/Ahmad-Akram7/Graphix)
-5. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/1) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
-6. 💪 Opened PR [#1](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/1) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
-7. 🎉 Merged PR [#18](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/18) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
-8. 💪 Opened PR [#18](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/18) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
-9. 🎉 Merged PR [#17](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/17) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
-10. 💪 Opened PR [#17](https://github.com/Ahmad-Akram7/FINANCE-TRACKER/pull/17) in [Ahmad-Akram7/FINANCE-TRACKER](https://github.com/Ahmad-Akram7/FINANCE-TRACKER)
+1. 🎉 Merged PR [#7](https://github.com/Ahmad-Akram7/lendlog/pull/7) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+2. 🎉 Merged PR [#8](https://github.com/Ahmad-Akram7/lendlog/pull/8) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+3. 💪 Opened PR [#8](https://github.com/Ahmad-Akram7/lendlog/pull/8) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+4. 💪 Opened PR [#7](https://github.com/Ahmad-Akram7/lendlog/pull/7) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+5. 🎉 Merged PR [#6](https://github.com/Ahmad-Akram7/lendlog/pull/6) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+6. 💪 Opened PR [#1](https://github.com/kaixhdev/lendlog/pull/1) in [kaixhdev/lendlog](https://github.com/kaixhdev/lendlog)
+7. ❌ Closed PR [#5](https://github.com/Ahmad-Akram7/lendlog/pull/5) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+8. 🎉 Merged PR [#4](https://github.com/Ahmad-Akram7/lendlog/pull/4) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+9. 💪 Opened PR [#6](https://github.com/Ahmad-Akram7/lendlog/pull/6) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+10. 💪 Opened PR [#5](https://github.com/Ahmad-Akram7/lendlog/pull/5) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
 <!--END_SECTION:activity-->
 
 ## Areas I work in
