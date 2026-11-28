@@ -16,7 +16,7 @@ A contemporary engineering portfolio for civil-engineering opportunities, geospa
 - The highway project documentation reports conflicting route-length values and currently lacks original drawings/screenshots. The portfolio must disclose that limitation and must not present an invented map or alignment as a measured result.
 - Climate Risk Portfolio Assessor contains experimental/assumed loss-model elements; label them as experimental and not validated for operational use.
 - Soil classification models are educational models; the README describes simplified decision logic. Do not imply full standards compliance without independent verification.
-- Concrete mix design model is described by its repository as an ACI 211.1 workflow. Its own documentation and assumptions remain the authority; do not claim independent validation.
+- The MATLAB/Simulink concrete mix model and the newer Concrete Mix Designer web app are separate projects. The web app uses a small illustrative lookup dataset and is not a complete ACI PRC-211.1-22 implementation; describe it as a preliminary educational estimator, not a validated design tool.
 
 ## Visual system
 | Token | Value | Use |
