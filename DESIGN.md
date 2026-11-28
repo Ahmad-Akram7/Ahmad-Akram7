@@ -30,9 +30,10 @@ A contemporary engineering portfolio for civil-engineering opportunities, geospa
 | Border | #D8E0E5 | Dividers and outlines |
 
 Typography:
-- Display: Newsreader, Georgia fallback.
-- Interface/body: Manrope, system sans-serif fallback.
-- Technical metadata: DM Mono, monospace fallback.
+- Display: Newsreader 400, Georgia fallback.
+- Interface/body: Manrope 400 and 700, system sans-serif fallback.
+- Technical metadata: DM Mono 400/500, monospace fallback.
+- Avoid synthetic colored emphasis; use the display face consistently.
 
 Layout:
 - Desktop content max-width: 1240px.
@@ -42,19 +43,21 @@ Layout:
 - Breakpoints: 900px and 600px.
 
 ## Information architecture
-1. Header/navigation
-2. Hero and primary calls to action
-3. Selected engineering projects
+1. Header/navigation with direct GitHub access
+2. Hero with a clearly labelled conceptual engineering sheet and title block
+3. Selected projects with source links and revision-style notes
 4. Research interests
 5. Technical capabilities
 6. Education and current focus
 7. Contact and résumé
 
 ## Project selection
-1. Climate Risk Portfolio Assessor — climate-risk workflow and screening application; experimental modelling is disclosed.
-2. Gujranwala–Sialkot Highway Design — academic Civil 3D highway-design project; source documentation and missing drawing assets are disclosed.
-3. Concrete Mix Design — MATLAB/Simulink workflow documented in the repository; use repository-provided architecture image.
-4. Soil Classification Models — educational USCS/AASHTO Simulink models; use repository screenshots and disclose simplified logic.
+1. LendLog — include as an open-source fork/contribution effort. Credit upstream maintainers and distinguish fork ownership from original authorship. Use a real screenshot from the fork's `screenshots/` directory.
+2. Ledger — Finance Tracker — independent local-first finance application. Use `Docs/browser-preview.svg` only with a visible note that it is an illustrative UI preview, not a live screenshot. State that browser, Android, and CLI data stores do not sync.
+3. Climate Risk Portfolio Assessor — climate-risk workflow and screening application; experimental modelling is disclosed.
+4. Gujranwala–Sialkot Highway Design — academic Civil 3D highway-design project; source documentation and missing drawing assets are disclosed. Do not imply a real route map is present.
+5. Concrete Mix Design — MATLAB/Simulink workflow documented in the repository; use repository-provided image with intrinsic dimensions.
+6. Soil Classification Models — educational USCS/AASHTO Simulink models; disclose simplified logic and avoid implying standards compliance.
 
 ## Accessibility and implementation
 - Single self-contained `index.html`; no build step or framework.
