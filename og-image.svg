@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f4f7f9"/>
+<rect x="0" y="0" width="18" height="630" fill="#174f78"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="82" y="94" font-size="19" font-weight="700" letter-spacing="4" fill="#174f78">AHMAD AKRAM / ENGINEERING PORTFOLIO</text>
+  <path d="M82 124H1118" stroke="#d8e0e5" stroke-width="2"/>
+  <text x="82" y="265" font-size="76" font-weight="400" letter-spacing="-3" fill="#17232d">Engineering with</text>
+  <text x="82" y="350" font-size="76" font-weight="400" letter-spacing="-3" fill="#17232d">a spatial perspective.</text>
+  <text x="86" y="420" font-size="25" fill="#52616d">Civil Engineering  ·  GIS  ·  Climate Risk  ·  Infrastructure</text>
+  <text x="86" y="535" font-size="17" letter-spacing="2" fill="#174f78">PROJECTS / RESEARCH / ENGINEERING SOFTWARE</text>
+</g>
+<g fill="none" stroke="#174f78" opacity=".25" stroke-width="2">
+  <path d="M780 160C900 95 960 210 1120 145M760 195C880 130 970 245 1140 180M750 230C870 165 980 280 1150 215"/>
+  <path d="M760 450C850 380 960 485 1140 390M740 485C850 415 970 520 1160 425M735 520C845 450 980 555 1170 460"/>
+</g>
+<path d="M790 500C865 450 900 465 955 390S1050 330 1135 250" fill="none" stroke="#d45b32" stroke-width="7" stroke-dasharray="13 10"/>
+<g fill="#d45b32"><circle cx="790" cy="500" r="8"/><circle cx="955" cy="390" r="8"/><circle cx="1135" cy="250" r="8"/></g>
+<rect x="82" y="572" width="1036" height="1" fill="#d8e0e5"/>
+<text x="82" y="602" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#52616d">University of Engineering and Technology, Taxila · Pakistan</text>
+</svg>
