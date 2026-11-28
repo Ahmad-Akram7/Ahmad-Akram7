@@ -9,11 +9,11 @@ A contemporary engineering portfolio for civil-engineering opportunities, geospa
 - Collaborators reviewing engineering projects and their documented limitations.
 
 ## Content rules
-- Engineering and research projects only. Finance Tracker and LendLog are intentionally excluded.
+- Engineering, research, and independently developed software projects may be included when their role is clear. Distinguish original work from forks and contributions; do not imply sole authorship of upstream projects.
 - Repository documentation is the source of truth.
 - Do not invent project outcomes, performance metrics, credentials, endorsements, or screenshots.
 - Clearly distinguish academic/educational work from validated engineering deliverables.
-- The highway project documentation reports conflicting route-length values and currently lacks original drawings/screenshots. The portfolio must disclose that limitation.
+- The highway project documentation reports conflicting route-length values and currently lacks original drawings/screenshots. The portfolio must disclose that limitation and must not present an invented map or alignment as a measured result.
 - Climate Risk Portfolio Assessor contains experimental/assumed loss-model elements; label them as experimental and not validated for operational use.
 - Soil classification models are educational models; the README describes simplified decision logic. Do not imply full standards compliance without independent verification.
 - Concrete mix design model is described by its repository as an ACI 211.1 workflow. Its own documentation and assumptions remain the authority; do not claim independent validation.
@@ -61,5 +61,5 @@ Layout:
 - Semantic landmarks and heading hierarchy.
 - Visible keyboard focus, skip link, descriptive image alternatives, reduced-motion support.
 - Contrast targets: WCAG 2.2 AA for normal text (4.5:1) and large text (3:1).
-- Responsive layouts tested by inspection at 375px, 768px, and 1440px; final browser validation should still be performed after deployment.
+- Mobile navigation links have at least 44px tap height; metadata is at least 11px.\n- Open Graph and Twitter metadata plus an inline SVG favicon support sharing and browser identification.\n- Use restrained CSS-only entrance/scroll motion with a reduced-motion override.\n- Responsive layouts still require browser validation at 375px, 768px, and 1440px after deployment.
 - Use native HTML/CSS/JS only; no external JavaScript dependencies.
