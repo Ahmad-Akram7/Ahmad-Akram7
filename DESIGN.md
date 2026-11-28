@@ -57,7 +57,8 @@ Layout:
 3. Climate Risk Portfolio Assessor — climate-risk workflow and screening application; experimental modelling is disclosed.
 4. Gujranwala–Sialkot Highway Design — academic Civil 3D highway-design project; source documentation and missing drawing assets are disclosed. Do not imply a real route map is present.
 5. Concrete Mix Design — MATLAB/Simulink workflow documented in the repository; use repository-provided image with intrinsic dimensions.
-6. Soil Classification Models — educational USCS/AASHTO Simulink models; disclose simplified logic and avoid implying standards compliance.
+6. Concrete Mix Designer — newer React/Vite browser application for preliminary estimates, batch moisture corrections and QC record keeping. Link to the live site and repository; state its calculation limitations.
+7. Soil Classification Models — educational USCS/AASHTO Simulink models; disclose simplified logic and avoid implying standards compliance.
 
 ## Accessibility and implementation
 - Single self-contained `index.html`; no build step or framework.
