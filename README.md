@@ -7,16 +7,16 @@ I build and document small tools that help me investigate engineering problems, 
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Ahmad-Akram7/lendlog/pull/10) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-2. ❌ Closed PR [#12](https://github.com/Ahmad-Akram7/lendlog/pull/12) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-3. 💪 Opened PR [#12](https://github.com/Ahmad-Akram7/lendlog/pull/12) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-4. ❌ Closed PR [#11](https://github.com/Ahmad-Akram7/lendlog/pull/11) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-5. 💪 Opened PR [#11](https://github.com/Ahmad-Akram7/lendlog/pull/11) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-6. 💪 Opened PR [#10](https://github.com/Ahmad-Akram7/lendlog/pull/10) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
-7. 🎉 Merged PR [#2](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/2) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
-8. 💪 Opened PR [#2](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/2) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
-9. ❌ Closed PR [#1](https://github.com/kaixhdev/lendlog/pull/1) in [kaixhdev/lendlog](https://github.com/kaixhdev/lendlog)
-10. 🎉 Merged PR [#9](https://github.com/Ahmad-Akram7/lendlog/pull/9) in [Ahmad-Akram7/lendlog](https://github.com/Ahmad-Akram7/lendlog)
+1. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/GhostRecon/pull/1) in [Ahmad-Akram7/GhostRecon](https://github.com/Ahmad-Akram7/GhostRecon)
+2. 🎉 Merged PR [#6](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/6) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
+3. 💪 Opened PR [#6](https://github.com/Ahmad-Akram7/Ahmad-Akram7/pull/6) in [Ahmad-Akram7/Ahmad-Akram7](https://github.com/Ahmad-Akram7/Ahmad-Akram7)
+4. 💪 Opened PR [#1](https://github.com/Ahmad-Akram7/GhostRecon/pull/1) in [Ahmad-Akram7/GhostRecon](https://github.com/Ahmad-Akram7/GhostRecon)
+5. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification/pull/1) in [Ahmad-Akram7/Simulink-Soil-Classification](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification)
+6. 🎉 Merged PR [#1](https://github.com/Ahmad-Akram7/concrete-mix-design-simulink/pull/1) in [Ahmad-Akram7/concrete-mix-design-simulink](https://github.com/Ahmad-Akram7/concrete-mix-design-simulink)
+7. 💪 Opened PR [#1](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification/pull/1) in [Ahmad-Akram7/Simulink-Soil-Classification](https://github.com/Ahmad-Akram7/Simulink-Soil-Classification)
+8. 💪 Opened PR [#1](https://github.com/Ahmad-Akram7/concrete-mix-design-simulink/pull/1) in [Ahmad-Akram7/concrete-mix-design-simulink](https://github.com/Ahmad-Akram7/concrete-mix-design-simulink)
+9. 🎉 Merged PR [#4](https://github.com/Ahmad-Akram7/discord-moderation-bot/pull/4) in [Ahmad-Akram7/discord-moderation-bot](https://github.com/Ahmad-Akram7/discord-moderation-bot)
+10. 💪 Opened PR [#4](https://github.com/Ahmad-Akram7/discord-moderation-bot/pull/4) in [Ahmad-Akram7/discord-moderation-bot](https://github.com/Ahmad-Akram7/discord-moderation-bot)
 <!--END_SECTION:activity-->
 
 ## Areas I work in
