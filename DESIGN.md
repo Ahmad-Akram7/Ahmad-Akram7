@@ -61,5 +61,8 @@ Layout:
 - Semantic landmarks and heading hierarchy.
 - Visible keyboard focus, skip link, descriptive image alternatives, reduced-motion support.
 - Contrast targets: WCAG 2.2 AA for normal text (4.5:1) and large text (3:1).
-- Mobile navigation links have at least 44px tap height; metadata is at least 11px.\n- Open Graph and Twitter metadata plus an inline SVG favicon support sharing and browser identification.\n- Use restrained CSS-only entrance/scroll motion with a reduced-motion override.\n- Responsive layouts still require browser validation at 375px, 768px, and 1440px after deployment.
+- Mobile navigation links have at least 44px tap height; metadata is at least 11px.
+- Open Graph and Twitter metadata plus an inline SVG favicon support sharing and browser identification.
+- Use restrained CSS-only entrance/scroll motion with a reduced-motion override.
+- Responsive layouts still require browser validation at 375px, 768px, and 1440px after deployment.
 - Use native HTML/CSS/JS only; no external JavaScript dependencies.
