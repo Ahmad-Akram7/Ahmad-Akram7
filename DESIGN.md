@@ -9,11 +9,11 @@ A contemporary engineering portfolio for civil-engineering opportunities, geospa
 - Collaborators reviewing engineering projects and their documented limitations.
 
 ## Content rules
-- Engineering and research projects only. Finance Tracker and LendLog are intentionally excluded.
+- Engineering, research, and independently developed software projects may be included when their role is clear. Distinguish original work from forks and contributions; do not imply sole authorship of upstream projects.
 - Repository documentation is the source of truth.
 - Do not invent project outcomes, performance metrics, credentials, endorsements, or screenshots.
 - Clearly distinguish academic/educational work from validated engineering deliverables.
-- The highway project documentation reports conflicting route-length values and currently lacks original drawings/screenshots. The portfolio must disclose that limitation.
+- The highway project documentation reports conflicting route-length values and currently lacks original drawings/screenshots. The portfolio must disclose that limitation and must not present an invented map or alignment as a measured result.
 - Climate Risk Portfolio Assessor contains experimental/assumed loss-model elements; label them as experimental and not validated for operational use.
 - Soil classification models are educational models; the README describes simplified decision logic. Do not imply full standards compliance without independent verification.
 - Concrete mix design model is described by its repository as an ACI 211.1 workflow. Its own documentation and assumptions remain the authority; do not claim independent validation.
@@ -30,9 +30,10 @@ A contemporary engineering portfolio for civil-engineering opportunities, geospa
 | Border | #D8E0E5 | Dividers and outlines |
 
 Typography:
-- Display: Newsreader, Georgia fallback.
-- Interface/body: Manrope, system sans-serif fallback.
-- Technical metadata: DM Mono, monospace fallback.
+- Display: Newsreader 400, Georgia fallback.
+- Interface/body: Manrope 400 and 700, system sans-serif fallback.
+- Technical metadata: DM Mono 400/500, monospace fallback.
+- Avoid synthetic colored emphasis; use the display face consistently.
 
 Layout:
 - Desktop content max-width: 1240px.
@@ -42,24 +43,29 @@ Layout:
 - Breakpoints: 900px and 600px.
 
 ## Information architecture
-1. Header/navigation
-2. Hero and primary calls to action
-3. Selected engineering projects
+1. Header/navigation with direct GitHub access
+2. Hero with a clearly labelled conceptual engineering sheet and title block
+3. Selected projects with source links and revision-style notes
 4. Research interests
 5. Technical capabilities
 6. Education and current focus
 7. Contact and résumé
 
 ## Project selection
-1. Climate Risk Portfolio Assessor — climate-risk workflow and screening application; experimental modelling is disclosed.
-2. Gujranwala–Sialkot Highway Design — academic Civil 3D highway-design project; source documentation and missing drawing assets are disclosed.
-3. Concrete Mix Design — MATLAB/Simulink workflow documented in the repository; use repository-provided architecture image.
-4. Soil Classification Models — educational USCS/AASHTO Simulink models; use repository screenshots and disclose simplified logic.
+1. LendLog — include as an open-source fork/contribution effort. Credit upstream maintainers and distinguish fork ownership from original authorship. Use a real screenshot from the fork's `screenshots/` directory.
+2. Ledger — Finance Tracker — independent local-first finance application. Use `Docs/browser-preview.svg` only with a visible note that it is an illustrative UI preview, not a live screenshot. State that browser, Android, and CLI data stores do not sync.
+3. Climate Risk Portfolio Assessor — climate-risk workflow and screening application; experimental modelling is disclosed.
+4. Gujranwala–Sialkot Highway Design — academic Civil 3D highway-design project; source documentation and missing drawing assets are disclosed. Do not imply a real route map is present.
+5. Concrete Mix Design — MATLAB/Simulink workflow documented in the repository; use repository-provided image with intrinsic dimensions.
+6. Soil Classification Models — educational USCS/AASHTO Simulink models; disclose simplified logic and avoid implying standards compliance.
 
 ## Accessibility and implementation
 - Single self-contained `index.html`; no build step or framework.
 - Semantic landmarks and heading hierarchy.
 - Visible keyboard focus, skip link, descriptive image alternatives, reduced-motion support.
 - Contrast targets: WCAG 2.2 AA for normal text (4.5:1) and large text (3:1).
-- Responsive layouts tested by inspection at 375px, 768px, and 1440px; final browser validation should still be performed after deployment.
+- Mobile navigation links have at least 44px tap height; metadata is at least 11px.
+- Open Graph and Twitter metadata plus an inline SVG favicon support sharing and browser identification.
+- Use restrained CSS-only entrance/scroll motion with a reduced-motion override.
+- Responsive layouts still require browser validation at 375px, 768px, and 1440px after deployment.
 - Use native HTML/CSS/JS only; no external JavaScript dependencies.
